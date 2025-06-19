@@ -1,8 +1,15 @@
+import {marcas, celulares} from "./../data/data.js"
 const Prod= () => {
-
+   
     return (
       <>
-      <p>aaaaaaaaaaa</p>
+      <div>
+        <h2>Celulares:</h2>
+        {
+            celulares.length ===0?
+            (<p>No hay celulares</p>):(celulares.map((celulares, celulares.id)=>(<)))
+        } 
+      </div>
       </>
     )
   }
