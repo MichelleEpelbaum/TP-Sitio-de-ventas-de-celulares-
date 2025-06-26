@@ -36,9 +36,9 @@ export const marcas = [
       precio: 899,
       marcaId: 3,
       fotos: [
-        'https://example.com/xiaomi13pro-1.jpg',
-        'https://example.com/xiaomi13pro-2.jpg',
-        'https://example.com/xiaomi13pro-3.jpg'
+        'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTMC-juA7jJPPv1Ih3LRp0I7ZUFRAVgndTiA&s',
+        'https://ar.celulares.com/fotos/xiaomi-redmi-note-13-pro-97398-g.jpg',
+        'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-o1g1uPvycdZdlSuqhuC_atB6nZhUdg8f7g&s'
       ]
     },
     {
@@ -48,9 +48,9 @@ export const marcas = [
       precio: 699,
       marcaId: 4,
       fotos: [
-        'https://example.com/edge40-1.jpg',
-        'https://example.com/edge40-2.jpg',
-        'https://example.com/edge40-3.jpg'
+        'https://riiing.com.ar/wp-content/uploads/2023/09/Moto-Edge-40.png',
+        'https://i.blogs.es/45176e/motorola-edge-40-1/450_1000.jpeg',
+        'https://www.clarin.com/2023/05/18/AcuxQ1-zC_720x0__1.jpg'
       ]
     }
    ];
