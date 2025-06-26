@@ -1,4 +1,4 @@
-import {marcas, celulares} from "./../data/data.js"
+import {celulares} from "./../data/data.js"
 import {Link} from 'react-router-dom'
 const Prod= () => {
    

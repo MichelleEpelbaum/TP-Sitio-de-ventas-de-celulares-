@@ -13,9 +13,8 @@ export const marcas = [
       precio: 1299,
       marcaId: 1,
       fotos: [
-        'https://example.com/iphone14pro-1.jpg',
-        'https://example.com/iphone14pro-2.jpg',
-        'https://example.com/iphone14pro-3.jpg'
+        'https://cdsassets.apple.com/live/SZLF0YNV/images/sp/111850_iphone-14_1.png',
+        'https://i5.walmartimages.com/seo/Restored-Apple-iPhone-14-Pro-Max-Carrier-Unlocked-256GB-Deep-Purple-MQ8W3LL-A-Refurbished_cb8f75e5-1b8e-4c06-9776-0d995a314ada.88ab53492f6fe7e653033585616419b1.jpeg'
       ]
     },
     {
@@ -25,9 +24,9 @@ export const marcas = [
       precio: 999,
       marcaId: 2,
       fotos: [
-        'https://example.com/galaxys23-1.jpg',
-        'https://example.com/galaxys23-2.jpg',
-        'https://example.com/galaxys23-3.jpg'
+        'https://comprasmartphone.com/_next/image?url=https%3A%2F%2Fstorage.comprasmartphone.com%2Fsmartphones%2Fsamsung-galaxy-s23-fe.png&w=256&q=75',
+        'https://media.es.wired.com/photos/63d2f3a758e3fe10c29f5630/16:9/w_1280,c_limit/samsung-galaxy-s23.jpg',
+        'https://m.media-amazon.com/images/I/51rn1JNGsvL.jpg'
       ]
     },
     {
