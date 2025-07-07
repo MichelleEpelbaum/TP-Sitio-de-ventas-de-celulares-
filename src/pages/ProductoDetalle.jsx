@@ -5,8 +5,6 @@ import "./../components/ProductoDetalle.css"
 const ProductoDetalle = () => {
     const { celularID } = useParams();
     console.log(celularID)
-   /* const celular=celulares[celularID]
-    console.log(celulares[celularID])*/
     const celularEncontrado = celulares.find(celular => celular.id == celularID);
 console.log(celularEncontrado)
     return (

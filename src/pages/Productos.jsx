@@ -1,5 +1,6 @@
 import {celulares} from "./../data/data.js"
 import {Link} from 'react-router-dom'
+import "./../components/Productos.css"
 const Prod= () => {
    
     return (
@@ -12,6 +13,7 @@ const Prod= () => {
         } 
       </div>
       </>
+      
     )
   }
   
